@@ -76,3 +76,5 @@ crashlytics-build.properties
 *.gz
 *.tgz
 *.iso
+
+\Packages\com.ptc.vuforia.engine-10.18.4
