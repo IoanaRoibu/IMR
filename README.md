@@ -1,6 +1,6 @@
 # IMR
 
-Tema 1:
+Tema 1: <\b>
   Am facut toate punctele din tema.
   Cand distanta este mai mica de 25 cm merge in attack, apoi get hit si dead urmand sa se intoarca la idle. In caz contrar trece intre idle si walk.
   Tema realizata de:
